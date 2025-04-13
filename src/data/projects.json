@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Akatsuki-Project-Hub",
+    "imageSrc": "projects/project.png",
+    "description": "Discover exceptional software projects crafted by elite developers. From MERN stack applications to Java enterprise solutions, find the perfect project for your needs.",
+    "skills": ["React", "TypeScript", "TailwindCSS"],
+    "demo": "https://new-react-project-fh7115kla.vercel.app/",
+    "source": "https://github.com/SangramsingRajput/NewReactProjecr"
+  }
+ 
+]
